@@ -11,7 +11,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Конфигурация
-BOT_TOKEN = "8597996956:AAHoafmYHSwoAjkiS3Ju2wft_KCVaPC1ku0"  # Замени на токен своего бота
+BOT_TOKEN = "BOT_TOKEN"  # Замени на токен своего бота
 ADMIN_USERNAME = "O_NIN_O"  # Замени на свой username БЕЗ @
 CONFIG_FILE = "bot_config.json"
 
