@@ -1,1 +1,1 @@
-# emojiBot
+# EmojiBot
